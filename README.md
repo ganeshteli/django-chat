@@ -1,1 +1,1 @@
-basic chat app with django-channels
+basic chat app with django-channels and WebSockets
